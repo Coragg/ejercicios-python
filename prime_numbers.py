@@ -9,7 +9,7 @@ print(defind_of_number)
 
 
 # search in a range everything the prime numbers
-range_of_number = 200
+range_of_number = 200 # change this number for search a primes numbers
 list_of_prime_numbers = []
 for number in range(1, range_of_number+1):
   list_of_prime_numbers.append(number)
